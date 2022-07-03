@@ -3,3 +3,5 @@ Esta es la historia de Diego Amado
 Tiene 28 anios y nacio en Colombia
 
 Hoy hablaremos de su historia
+
+Nuevos parrafo de cambios en este archivo
